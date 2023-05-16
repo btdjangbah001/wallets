@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TECH PLUG_GH\\Desktop\\Projects\\hubtel\\Hubtel.Wallets.Api\\Hubtel.Wallets.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TECH PLUG_GH\\Desktop\\Projects\\hubtel\\Hubtel.Wallets.Api\\Hubtel.Wallets.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TECH PLUG_GH\\Desktop\\Projects\\hubtel\\Hubtel.Wallets.Api\\Hubtel.Wallets.Api.csproj",
+        "projectName": "Hubtel.Wallets.Api",
+        "projectPath": "C:\\Users\\TECH PLUG_GH\\Desktop\\Projects\\hubtel\\Hubtel.Wallets.Api\\Hubtel.Wallets.Api.csproj",
+        "packagesPath": "C:\\Users\\TECH PLUG_GH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TECH PLUG_GH\\Desktop\\Projects\\hubtel\\Hubtel.Wallets.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TECH PLUG_GH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

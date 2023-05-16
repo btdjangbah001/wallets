@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jC8bCmoeayH4g40/sDOticwBe0T9+nw96oKkNeyMuSfGviQ9M9rQpnq+rUqIXNxCklGpQMcEe4wcsuY8vA84oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TECH PLUG_GH\\Desktop\\Projects\\hubtel\\Hubtel.Wallets.Api\\Hubtel.Wallets.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TECH PLUG_GH\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
